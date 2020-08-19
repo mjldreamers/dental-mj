@@ -134,7 +134,7 @@ STATICEFILES_STORAE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 EMAIL_HOST = ' smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'mark.lupango@bellkenzpharma.com'
-EMAIL_HOST_PASSWORD = '2016-01472-Mj-8'
+EMAIL_HOST_PASSWORD = ''
 EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
 
